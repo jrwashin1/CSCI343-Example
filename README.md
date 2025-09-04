@@ -1,2 +1,2 @@
-# CSCI343-Example
-This repo is created as a sample.
+# CSCI343-Course
+This repo is now official
